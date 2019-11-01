@@ -21,7 +21,7 @@ Plays YouTube videos on a side rail.
 // @icon         https://raw.githubusercontent.com/GameModerator/YouTubeRail/master/Icon.png
 // @require      https://code.jquery.com/jquery-latest.min.js
 // ==/UserScript==
-$.getScript('https://raw.githack.com/GameModerator/YouTubeRail/master/main.js');
+$.getScript('https://raw.githacl.com/DeltaCoderr/master/main.js');
 console.log('YouTubeRail loaded!');
 
 ```
