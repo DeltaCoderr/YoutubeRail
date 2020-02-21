@@ -18,7 +18,7 @@ Plays YouTube videos on a side rail.
 // @version
 // @description
 // @author       k_OS
-// @icon         https://raw.githubusercontent.com/GameModerator/YouTubeRail/master/Icon.png
+// @icon         https://raw.githubusercontent.com/DeltaCoderr/YouTubeRail/master/Icon.png
 // @require      https://code.jquery.com/jquery-latest.min.js
 // ==/UserScript==
 $.getScript('https://raw.githack.com/DeltaCoderr/YoutubeRail/master/main.js');
@@ -34,11 +34,11 @@ console.log('YouTubeRail loaded!');
 #### Vanilla
 ```JS
 var pjsp = document.createElement('script');
-pjsp.src = 'https://raw.githack.com/GameModerator/YouTubeRail/master/main.js';
+pjsp.src = 'https://raw.githack.com/DeltaCoderr/YouTubeRail/master/main.js';
 document.body.appendChild(pjsp);
 ```
 
 #### jQuery
 ```JS
-$.getScript('https://raw.githack.com/GameModerator/YouTubeRail/master/main.js');
+$.getScript('https://raw.githack.com/DeltaCoderr/YouTubeRail/master/main.js');
 ```
